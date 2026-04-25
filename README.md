@@ -63,7 +63,15 @@ Skills can be installed in two places:
 
 ### Development & Code Tools
 
+- [API Dev](./skills/api-dev/) - REST and GraphQL API design with schema-first approach, versioning, authentication, rate limiting, error handling, and documentation. 📖 **Comprehensive**
+- [Code Refactorer](./skills/code-refactorer/) - Refactoring with design patterns, SOLID principles, dead code elimination, performance optimization, and safe incremental workflows. 📖 **Comprehensive**
+- [Database Manager](./skills/database-manager/) - Database operations covering schema design, migrations, query optimization, indexing, and backups for PostgreSQL, MySQL, and MongoDB. 📖 **Comprehensive**
+- [Docker Deploy](./skills/docker-deploy/) - Containerization with Dockerfiles, Docker Compose, multi-stage builds, health checks, image optimization, and production patterns. 📖 **Comprehensive**
+- [Game Dev](./skills/game-dev/) - Game development workflows for prototyping, mechanics design, balancing, testing, player feedback, and iteration cycles. 📖 **Comprehensive**
+- [Git Workflow](./skills/git-workflow/) - Git best practices for branching strategies, conventional commits, pull request workflows, conflict resolution, and repository management. 📖 **Comprehensive**
+- [Godot Helper](./skills/godot-helper/) - Godot 4.x development with scene tree patterns, GDScript best practices, signal architecture, export templates, and engine-specific workflows. 📖 **Comprehensive**
 - [MCP Builder](./skills/mcp-builder/) - Guides creation of high-quality MCP (Model Context Protocol) servers for integrating external APIs and services with LLMs using Python or TypeScript. 📖 **Comprehensive**
+- [React Next.js Builder](./skills/react-nextjs-builder/) - React and Next.js development with component architecture, SSR/SSG strategies, API routes, state management, and performance optimization. 📖 **Comprehensive**
 - [Skill Creator](./skills/skill-creator/) - Provides guidance for creating effective Cline Skills that extend capabilities with specialized knowledge, workflows, and tool integrations. 📖 **Comprehensive**
 - [Staff Engineer Review](./skills/staff-engineer-review/) - Performs deep code review of pull requests as a Staff+ engineer, evaluating alignment, architecture, code quality, correctness, performance, and test coverage. 📄 **Standard**
 - [Webapp Testing](./skills/webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots. 📄 **Standard**
@@ -98,6 +106,8 @@ Skills can be installed in two places:
 ### Security & Systems
 
 - More skills coming soon!
+
+
 
 ## Skill Depth Legend
 
