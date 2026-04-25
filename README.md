@@ -58,6 +58,8 @@ Skills can be installed in two places:
 
 - [docx](./skills/docx/) - Create, edit, and analyze Word documents with tracked changes, comments, formatting preservation, and text extraction. 📖 **Comprehensive**
 - [pdf](./skills/pdf/) - Extract text and tables, create new PDFs, merge/split documents, handle forms, and annotate PDFs. 📖 **Comprehensive**
+- [pptx](./skills/pptx/) - Create, edit, and analyze PowerPoint presentations with layouts, formatting, speaker notes, charts, and visual design principles. 📖 **Comprehensive**
+- [xlsx](./skills/xlsx/) - Create, edit, and analyze spreadsheets with formulas, formatting, data transformation, charts, and financial model conventions using openpyxl and pandas. 📖 **Comprehensive**
 
 ### Development & Code Tools
 
@@ -68,20 +70,22 @@ Skills can be installed in two places:
 
 ### Data & Analysis
 
-- More skills coming soon!
+- [Meeting Insights Analyzer](./skills/meeting-insights-analyzer/) - Analyzes meeting transcripts to uncover behavioral patterns, conflict avoidance, filler words, speaking ratios, and actionable communication feedback. 📖 **Comprehensive**
 
 ### Business & Marketing
 
 - [Brand Guidelines](./skills/brand-guidelines/) - Applies consistent brand colors and typography to artifacts for professional visual identity and design standards. 📄 **Standard**
-- More skills coming soon!
+- [Competitive Ads Extractor](./skills/competitive-ads-extractor/) - Extract and analyze competitors' ads from ad libraries to understand messaging patterns, creative approaches, and positioning strategies. 📖 **Comprehensive**
+- [Lead Research Assistant](./skills/lead-research-assistant/) - Identify and qualify leads with ideal customer profiles, fit scoring, and personalized outreach strategies for sales and business development. 📖 **Comprehensive**
+- [Domain Name Brainstormer](./skills/domain-name-brainstormer/) - Generate creative domain name ideas and check TLD availability across .com, .io, .dev, .ai, and more with branding insights. 📄 **Standard**
 
 ### Communication & Writing
 
-- More skills coming soon!
+- [Content Research Writer](./skills/content-research-writer/) - Research-backed content writing with collaborative outlining, citation management, hook improvement, and section-by-section feedback. 📖 **Comprehensive**
 
 ### Creative & Media
 
-- More skills coming soon!
+- [Canvas Design](./skills/canvas-design/) - Create original visual art and designs as PNG or PDF using design philosophy principles, composition, and craftsmanship. 📖 **Comprehensive**
 
 ### Productivity & Organization
 
