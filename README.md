@@ -82,9 +82,14 @@ Skills can be installed in two places:
 
 ### Business & Marketing
 
+- [A/B Testing](./skills/a-b-testing/) - Design and analyze A/B tests: hypothesis framing, metric selection, sample size calculation, statistical significance evaluation, and results interpretation. 📖 **Comprehensive**
+- [Blog Writer](./skills/blog-writer/) - Blog post creation: outlines, SEO-optimized headlines, meta descriptions, content structures, and publication-ready drafting with proper formatting. 📖 **Comprehensive**
 - [Brand Guidelines](./skills/brand-guidelines/) - Applies consistent brand colors and typography to artifacts for professional visual identity and design standards. 📄 **Standard**
 - [Competitive Ads Extractor](./skills/competitive-ads-extractor/) - Extract and analyze competitors' ads from ad libraries to understand messaging patterns, creative approaches, and positioning strategies. 📖 **Comprehensive**
+- [Email Campaigns](./skills/email-campaigns/) - Email marketing: subject line optimization, A/B test design, template creation, drip sequences, segmentation strategies, and performance tracking. 📖 **Comprehensive**
 - [Lead Research Assistant](./skills/lead-research-assistant/) - Identify and qualify leads with ideal customer profiles, fit scoring, and personalized outreach strategies for sales and business development. 📖 **Comprehensive**
+- [SEO Optimizer](./skills/seo-optimizer/) - SEO analysis: keyword research, meta tag generation, structured data markup (JSON-LD), XML sitemaps, robots.txt, and technical SEO audits. 📖 **Comprehensive**
+- [Social Media Manager](./skills/social-media-manager/) - Social media content: platform-specific post creation, hashtag research, content calendars, engagement analysis, and content repurposing across Twitter, LinkedIn, Instagram, Facebook, and Bluesky. 📖 **Comprehensive**
 - [Domain Name Brainstormer](./skills/domain-name-brainstormer/) - Generate creative domain name ideas and check TLD availability across .com, .io, .dev, .ai, and more with branding insights. 📄 **Standard**
 
 ### Communication & Writing
@@ -94,6 +99,9 @@ Skills can be installed in two places:
 ### Creative & Media
 
 - [Canvas Design](./skills/canvas-design/) - Create original visual art and designs as PNG or PDF using design philosophy principles, composition, and craftsmanship. 📖 **Comprehensive**
+- [Image Enhancer](./skills/image-enhancer/) - Improve image and screenshot quality: resolution upscaling, sharpness correction, noise reduction, color optimization, and format conversion for docs, web, and print. 📖 **Comprehensive**
+- [Video Frames](./skills/video-frames/) - Extract and analyze video frames, create thumbnails and sprite sheets, detect scene changes, and generate animated GIF previews. 📖 **Comprehensive**
+- [Audio Gen](./skills/audio-gen/) - Audio generation and transcription: text-to-speech (edge-tts, Piper), speech-to-text (Whisper), format conversion, podcast production, and audio editing. 📖 **Comprehensive**
 
 ### Productivity & Organization
 
