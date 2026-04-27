@@ -134,3 +134,9 @@ ACCENT_BLUE = HexColor('#81a1c1')
 - Provides automatic fallback to system monospace fonts
 - No font installation required — works with existing system fonts
 - For best results, install JetBrains Mono or Fira Code in your environment
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/brand-guidelines/` (project-level) or `~/.cline/skills/brand-guidelines/` (global)
+2. **Activation**: Cline will suggest this skill when you need consistent branding on documents or visual assets
+3. **Progressive loading**: Metadata is always available; detailed color and typography guidance loads on demand via `use_skill`

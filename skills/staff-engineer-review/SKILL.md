@@ -168,3 +168,9 @@ Specific test cases to add:
 - Consider the context of the codebase and team conventions
 - Balance perfectionism with pragmatism
 - Focus review on what matters most for the PR's success
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/staff-engineer-review/` (project-level) or `~/.cline/skills/staff-engineer-review/` (global)
+2. **Activation**: Cline will suggest this skill when you request a code review, PR evaluation, or architectural assessment
+3. **Progressive loading**: Metadata is always in context; detailed review criteria load on demand via `use_skill`

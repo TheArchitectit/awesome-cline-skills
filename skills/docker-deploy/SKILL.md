@@ -413,3 +413,9 @@ docker compose exec app nslookup postgres
 - Use `depends_on` with `condition: service_healthy` to ensure startup order
 - Never store secrets in Dockerfiles or compose files — use secrets management
 - Test health checks manually: `docker inspect --format='{{.State.Health.Status}}' <container>`
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/docker-deploy/` (project-level) or `~/.cline/skills/docker-deploy/` (global)
+2. **Activation**: Cline will suggest this skill when you need containerization, Dockerfiles, or deployment configurations
+3. **Progressive loading**: Metadata is always available; detailed Docker patterns and Compose examples load on demand via `use_skill`

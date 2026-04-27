@@ -235,3 +235,9 @@ Create an XML file:
   </qa_pair>
 </evaluation>
 ```
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/mcp-builder/` (project-level) or `~/.cline/skills/mcp-builder/` (global)
+2. **Activation**: Cline will suggest this skill when you're building MCP servers, integrating external APIs, or creating tool interfaces
+3. **Progressive loading**: Metadata is always available; detailed MCP server patterns load on demand via `use_skill`

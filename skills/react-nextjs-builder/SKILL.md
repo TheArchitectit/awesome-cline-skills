@@ -452,3 +452,9 @@ export default function Loading() {
 - Use `generateStaticParams` for pages with known URL segments
 - Prefer server actions over API routes for mutations from your own frontend
 - Install `@next/bundle-analyzer` to inspect what ships to the client
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/react-nextjs-builder/` (project-level) or `~/.cline/skills/react-nextjs-builder/` (global)
+2. **Activation**: Cline will suggest this skill when you're building React or Next.js applications or components
+3. **Progressive loading**: Only metadata loads initially; full React/Next.js patterns activate via `use_skill` when web work begins

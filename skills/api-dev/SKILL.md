@@ -417,3 +417,9 @@ class ApiError extends Error {
 - Document with OpenAPI (REST) or introspection + descriptions (GraphQL) — never keep docs separate from code
 - Use `Sunset` headers when deprecating endpoints — give clients time to migrate
 - Log request IDs for tracing — every error response should include the request ID
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/api-dev/` (project-level) or `~/.cline/skills/api-dev/` (global)
+2. **Activation**: Cline will automatically suggest this skill when you mention API design, REST endpoints, or GraphQL schemas
+3. **Progressive loading**: Only the metadata loads initially; full instructions activate via `use_skill` when API work begins

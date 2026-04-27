@@ -384,3 +384,9 @@ coverage/
 - Use `git stash` to temporarily shelve work: `git stash push -m "WIP: auth refactor"`
 - Review your own PR before assigning reviewers — you'll catch obvious issues first
 - Rebase feature branches onto main rather than merging main into them (cleaner history)
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/git-workflow/` (project-level) or `~/.cline/skills/git-workflow/` (global)
+2. **Activation**: Cline will suggest this skill when you need branching strategies, commit conventions, or PR workflows
+3. **Progressive loading**: Metadata is always in context; detailed Git patterns load on demand via `use_skill`

@@ -280,3 +280,9 @@ game-project/
 - Session length matters: design knowing whether players play for 5 minutes or 5 hours
 - Replayability comes from meaningful variation, not just randomization
 - The best tutorials teach by doing, not by showing text
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/game-dev/` (project-level) or `~/.cline/skills/game-dev/` (global)
+2. **Activation**: Cline will suggest this skill when you're building games, prototyping gameplay, or designing game mechanics
+3. **Progressive loading**: Only metadata loads initially; full game dev patterns activate via `use_skill` when game work begins

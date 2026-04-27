@@ -428,3 +428,9 @@ project/
 - Prefer `Mathf`/`Vector2` methods over raw operators for clarity
 - Use `@warning_ignore` sparingly — fix the warning if possible
 - Test on target hardware early — mobile performance ≠ desktop performance
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/godot-helper/` (project-level) or `~/.cline/skills/godot-helper/` (global)
+2. **Activation**: Cline will suggest this skill when you're developing in Godot 4.x, writing GDScript, or configuring exports
+3. **Progressive loading**: Only metadata loads initially; full Godot patterns and best practices activate via `use_skill`

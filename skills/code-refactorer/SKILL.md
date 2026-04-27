@@ -484,3 +484,9 @@ class ExpensiveResource {
 - Characterization tests (tests that document current behavior) are valid even if the current behavior is imperfect — lock it down before changing it
 - Flag new technical debt: `// TODO(refactor): extract validation logic` — makes it findable later
 - Refactoring is not a phase — it's a continuous activity woven into feature work
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/code-refactorer/` (project-level) or `~/.cline/skills/code-refactorer/` (global)
+2. **Activation**: Cline will suggest this skill when you request code restructuring, pattern application, or technical debt reduction
+3. **Progressive loading**: Metadata is always in context; detailed refactoring patterns load on demand via `use_skill`

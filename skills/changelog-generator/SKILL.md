@@ -176,3 +176,9 @@ For each commit, rewrite the technical description in user-friendly language:
 - Use your CHANGELOG_STYLE.md for consistent formatting
 - Review and adjust the generated changelog before publishing
 - Save output directly to CHANGELOG.md
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/changelog-generator/` (project-level) or `~/.cline/skills/changelog-generator/` (global)
+2. **Activation**: Cline will suggest this skill when you ask about release notes, changelogs, or version history
+3. **Progressive loading**: Only metadata is loaded initially; full changelog patterns load via `use_skill` when needed

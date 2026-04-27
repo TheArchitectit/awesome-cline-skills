@@ -400,3 +400,9 @@ engine = create_engine(
 - Enable query logging/profiling in development; review slow queries before deploy
 - Set up automated backups and test restoration regularly — an untested backup isn't a backup
 - For MongoDB, prefer embedding for read-heavy access patterns and referencing for write-heavy ones
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/database-manager/` (project-level) or `~/.cline/skills/database-manager/` (global)
+2. **Activation**: Cline will suggest this skill when you work with database schemas, migrations, queries, or indexing
+3. **Progressive loading**: Only metadata loads initially; full database patterns activate via `use_skill` when database work begins

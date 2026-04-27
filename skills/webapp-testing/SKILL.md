@@ -169,3 +169,9 @@ page.wait_for_selector(".result", timeout=10000)
 - Add appropriate waits before interacting with elements
 - Take screenshots to debug unexpected behavior
 - Use `full_page=True` for comprehensive visual debugging
+
+## Cline Workflow Notes
+
+1. **Install location**: Copy this skill directory to `.cline/skills/webapp-testing/` (project-level) or `~/.cline/skills/webapp-testing/` (global)
+2. **Activation**: Cline will suggest this skill when you need to test a web app, take browser screenshots, or debug UI behavior
+3. **Progressive loading**: Only metadata loads initially; full testing patterns activate via `use_skill` when testing begins
