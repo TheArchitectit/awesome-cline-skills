@@ -304,3 +304,9 @@ Help keep this project going — use a referral link below and both of us get cr
 Power your AI projects with [Ozore.com](https://ozore.com/?ref=cwe4kdx0) — use code **lundrog50** for 50% off your first month.
 
 > `direct-pin` and `custom-router` are available on **Pro** and **Max** plans only.
+
+## ☕ Support
+
+If this project helped you, consider buying me a coffee:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-TheArchitectit-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/TheArchitectit)
