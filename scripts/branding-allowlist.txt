@@ -1,0 +1,17 @@
+# scripts/branding-allowlist.txt
+#
+# Pre-commit branding exceptions for scripts/check_skills.sh
+#
+# Format per line:  <skill-dir>|<exact substring to allow>
+#
+# Purpose: some skills contain Claude/Anthropic/OpenCode strings that are
+# FUNCTIONAL (CLI flags, SDK imports, default author names), not user-facing
+# branding. Those are legitimate and may remain. Everything else that matches
+# is flagged by the check.
+#
+# NOTE: license/credit checks are ALWAYS enforced (hard gate); this file only
+# relaxes the branding notification (and is honored under --strict too).
+
+# --- lean-ctx: native CLI flags for supported agents (real, functional) ---
+skills/lean-ctx|--agent claude
+skills/lean-ctx|--agent opencode

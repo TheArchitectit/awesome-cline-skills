@@ -10,10 +10,10 @@
   <a href="https://www.apache.org/licenses/LICENSE-2.0">
     <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License: Apache-2.0" />
   </a>
-  <img src="https://img.shields.io/badge/Skills-32-blueviolet.svg?style=flat-square" alt="32 Skills" />
+  <img src="https://img.shields.io/badge/Skills-49-blueviolet.svg?style=flat-square" alt="49 Skills" />
 </p>
 
-A curated list of 32 practical Cline Skills for enhancing productivity across the [Cline](https://cline.bot) AI coding agent ecosystem.
+A curated list of 49 practical Cline Skills for enhancing productivity across the [Cline](https://cline.bot) AI coding agent ecosystem.
 
 ## Contents
 
@@ -57,7 +57,7 @@ Skills can be installed in two places:
 ### Document Processing
 
 | Skill | Description | Depth |
-|-------|-------------|-------|
+| ------- | ------------- | ------- |
 | [docx](./skills/docx/) | Create, edit, and analyze Word documents with tracked changes, comments, formatting preservation, and text extraction | 📖 Comprehensive |
 | [pdf](./skills/pdf/) | Extract text and tables, create new PDFs, merge/split documents, handle forms, and annotate PDFs | 📖 Comprehensive |
 | [pptx](./skills/pptx/) | Create, edit, and analyze PowerPoint presentations with layouts, formatting, speaker notes, charts, and visual design principles | 📖 Comprehensive |
@@ -66,18 +66,30 @@ Skills can be installed in two places:
 ### Development & Code Tools
 
 | Skill | Description | Depth |
-|-------|-------------|-------|
+| ------- | ------------- | ------- |
 | [api-dev](./skills/api-dev/) | REST and GraphQL API design with schema-first approach, versioning, authentication, rate limiting, error handling, and documentation | 📖 Comprehensive |
+| [brainstorming](./skills/brainstorming/) | Explores user intent, requirements, and design before implementing creative work (use before any feature or component work) | 📖 Comprehensive |
 | [code-refactorer](./skills/code-refactorer/) | Refactoring with design patterns, SOLID principles, dead code elimination, performance optimization, and safe incremental workflows | 📖 Comprehensive |
 | [database-manager](./skills/database-manager/) | Database operations covering schema design, migrations, query optimization, indexing, and backups for PostgreSQL, MySQL, and MongoDB | 📖 Comprehensive |
 | [docker-deploy](./skills/docker-deploy/) | Containerization with Dockerfiles, Docker Compose, multi-stage builds, health checks, image optimization, and production patterns | 📖 Comprehensive |
+| [finishing-a-development-branch](./skills/finishing-a-development-branch/) | Decide how to integrate completed work when implementation is done and all tests pass | 📄 Standard |
 | [game-dev](./skills/game-dev/) | Game development workflows for prototyping, mechanics design, balancing, testing, player feedback, and iteration cycles | 📖 Comprehensive |
+| [git-pushing](./skills/git-pushing/) | Stage, commit, and push git changes with conventional commit messages | 📄 Standard |
 | [git-workflow](./skills/git-workflow/) | Git best practices for branching strategies, conventional commits, pull request workflows, conflict resolution, and repository management | 📖 Comprehensive |
 | [godot-helper](./skills/godot-helper/) | Godot 4.x development with scene tree patterns, GDScript best practices, signal architecture, export templates, and engine-specific workflows | 📖 Comprehensive |
+| [ios-simulator-skill](./skills/ios-simulator-skill/) | 29 production-ready scripts for iOS app testing, building, and automation via the iOS Simulator | 📖 Comprehensive |
+| [langsmith-fetch](./skills/langsmith-fetch/) | Debugs LangChain and LangGraph agents by fetching and analyzing execution traces from LangSmith Studio | 📖 Comprehensive |
+| [lean-ctx](./skills/lean-ctx/) | Context engineering for AI agents: MCP tools, read modes, shell patterns, and tree-sitter AST for compressed context | 📖 Comprehensive |
 | [mcp-builder](./skills/mcp-builder/) | Guides creation of high-quality MCP (Model Context Protocol) servers for integrating external APIs and services with LLMs using Python or TypeScript | 📄 Standard |
+| [playwright-skill](./skills/playwright-skill/) | Complete browser automation with Playwright: test pages, fill forms, screenshots, responsive checks, and login flows | 📖 Comprehensive |
 | [react-nextjs-builder](./skills/react-nextjs-builder/) | React and Next.js development with component architecture, SSR/SSG strategies, API routes, state management, and performance optimization | 📖 Comprehensive |
+| [review-implementing](./skills/review-implementing/) | Process and implement code review feedback systematically | 📄 Standard |
 | [skill-creator](./skills/skill-creator/) | Provides guidance for creating effective Cline Skills that extend capabilities with specialized knowledge, workflows, and tool integrations | 📄 Standard |
+| [skill-seekers](./skills/skill-seekers/) | Automatically detect source types and build AI skills from documentation, repos, PDFs, videos, or other knowledge sources | 📄 Standard |
 | [staff-engineer-review](./skills/staff-engineer-review/) | Performs deep code review of pull requests as a Staff+ engineer, evaluating alignment, architecture, code quality, correctness, performance, and test coverage | 📄 Standard |
+| [test-driven-development](./skills/test-driven-development/) | Write tests before implementing any feature or bugfix (test-first workflow) | 📄 Standard |
+| [test-fixing](./skills/test-fixing/) | Run tests and systematically fix all failing tests using smart error grouping | 📄 Standard |
+| [using-git-worktrees](./skills/using-git-worktrees/) | Create isolated git worktrees for feature work with smart directory selection and safety verification | 📄 Standard |
 | [webapp-testing](./skills/webapp-testing/) | Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots | 📄 Standard |
 
 ### Data & Analysis
@@ -89,7 +101,7 @@ Skills can be installed in two places:
 ### Business & Marketing
 
 | Skill | Description | Depth |
-|-------|-------------|-------|
+| ------- | ------------- | ------- |
 | [a-b-testing](./skills/a-b-testing/) | Design and analyze A/B tests: hypothesis framing, metric selection, sample size calculation, statistical significance evaluation, and results interpretation | 📖 Comprehensive |
 | [blog-writer](./skills/blog-writer/) | Blog post creation: outlines, SEO-optimized headlines, meta descriptions, content structures, and publication-ready drafting with proper formatting | 📖 Comprehensive |
 | [brand-guidelines](./skills/brand-guidelines/) | Applies consistent brand colors and typography to artifacts for professional visual identity and design standards | 📄 Standard |
@@ -103,23 +115,28 @@ Skills can be installed in two places:
 ### Communication & Writing
 
 | Skill | Description | Depth |
-|-------|-------------|-------|
+| ------- | ------------- | ------- |
+| [article-extractor](./skills/article-extractor/) | Extract clean article content from URLs and save as readable text without ads or clutter | 📄 Standard |
 | [content-research-writer](./skills/content-research-writer/) | Research-backed content writing with collaborative outlining, citation management, hook improvement, and section-by-section feedback | 📄 Standard |
+| [ship-learn-next](./skills/ship-learn-next/) | Transform learning content (transcripts, articles, tutorials) into actionable implementation plans | 📄 Standard |
+| [twitter-algorithm-optimizer](./skills/twitter-algorithm-optimizer/) | Analyze and optimize tweets for maximum reach using Twitter's open-source algorithm insights (Real-graph, SimClusters, TwHIN) | 📖 Comprehensive |
 
 ### Creative & Media
 
 | Skill | Description | Depth |
-|-------|-------------|-------|
+| ------- | ------------- | ------- |
 | [audio-gen](./skills/audio-gen/) | Audio generation and transcription: text-to-speech (edge-tts, Piper), speech-to-text (Whisper), format conversion, podcast production, and audio editing | 📖 Comprehensive |
 | [canvas-design](./skills/canvas-design/) | Create original visual art and designs as PNG or PDF using design philosophy principles, composition, and craftsmanship | 📄 Standard |
 | [image-enhancer](./skills/image-enhancer/) | Improve image and screenshot quality: resolution upscaling, sharpness correction, noise reduction, color optimization, and format conversion for docs, web, and print | 📖 Comprehensive |
 | [video-frames](./skills/video-frames/) | Extract and analyze video frames, create thumbnails and sprite sheets, detect scene changes, and generate animated GIF previews | 📖 Comprehensive |
+| [youtube-transcript](./skills/youtube-transcript/) | Download YouTube video transcripts, captions, or subtitles directly | 📄 Standard |
 
 ### Productivity & Organization
 
 | Skill | Description | Depth |
 |-------|-------------|-------|
 | [changelog-generator](./skills/changelog-generator/) | Automatically creates user-facing changelogs from git commits by analyzing history and transforming technical commits into customer-friendly release notes | 📄 Standard |
+| [tailored-resume-generator](./skills/tailored-resume-generator/) | Analyzes job descriptions and generates tailored resumes highlighting relevant experience, skills, and achievements to maximize interview chances | 📖 Comprehensive |
 
 ## Skill Depth Legend
 
@@ -294,10 +311,9 @@ Individual skills may have different licenses — please check each skill's fold
 Help keep this project going — use a referral link below and both of us get credits!
 
 | Service | Your Bonus | Details | Referral Code |
-|---------|-----------|---------|---------------|
+| --------- | ----------- | --------- | --------------- |
 | [**Neuralwatt**](https://portal.neuralwatt.com/auth/register?ref=NW-ROGER-ET3Y) | $10 in credits | Spend $10+ → you get $10, we get $20 | `NW-ROGER-ET3Y` |
 | [**Synthetic**](https://synthetic.new/?referral=UAWqkKQQLFkzMkY) | $10 in credits | Subscribe → both get $10 credit | `UAWqkKQQLFkzMkY` |
-
 
 ## ☁️ Cloud Credits
 
