@@ -10,9 +10,6 @@
   <a href="https://www.apache.org/licenses/LICENSE-2.0">
     <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License: Apache-2.0" />
   </a>
-  <a href="https://github.com/sponsors/TheArchitectit">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-FF69B4?style=flat-square&logo=github-sponsors" alt="GitHub Sponsors" />
-  </a>
   <img src="https://img.shields.io/badge/Skills-49-blueviolet.svg?style=flat-square" alt="49 Skills" />
 </p>
 
