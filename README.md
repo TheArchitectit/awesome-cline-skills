@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License: Apache-2.0" />
   </a>
   <img src="https://img.shields.io/badge/Skills-49-blueviolet.svg?style=flat-square" alt="49 Skills" />
+<a href="https://github.com/sponsors/TheArchitectit"><img src="https://img.shields.io/badge/Sponsor-TheArchitectit-FF69B4?style=flat&logo=github-sponsors" alt="Sponsor" /></a>
 </p>
 
 A curated list of 49 practical Cline Skills for enhancing productivity across the [Cline](https://cline.bot) AI coding agent ecosystem.
