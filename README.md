@@ -326,3 +326,8 @@ Help keep this project going — use a referral link below and both of us get cr
 > `direct-pin` and `custom-router` are available on **Pro** and **Max** plans only.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-TheArchitectit-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/TheArchitectit)
+
+## Tale
+
+[**Tale**](https://tale.dev) is an open-source project workspace for teams and AI agents. Delegate tasks to configured agents in persistent sandboxes, then review reports, deliverables, and run history together. Tale also exposes an authenticated MCP endpoint for tool discovery and automation authoring. [Source repository](https://github.com/tale-project/tale) · [MCP docs](https://docs.tale.dev/develop/mcp-endpoint)
+
