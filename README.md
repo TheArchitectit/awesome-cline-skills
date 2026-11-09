@@ -1,4 +1,4 @@
-<h1 align="center">Awesome Cline Skills</h1>
+﻿<h1 align="center">Awesome Cline Skills</h1>
 
 <p align="center">
   <a href="https://awesome.re">
@@ -68,6 +68,7 @@ Skills can be installed in two places:
 
 | Skill | Description | Depth |
 | ------- | ------------- | ------- |
+| [agent-tap](./skills/agent-tap/) | Local-first SQLite observability for inspecting coding-agent sessions, parent/child subagent spans, tool failure rates, and scheduled crons | ðŸŸ¢ Standard |
 | [api-dev](./skills/api-dev/) | REST and GraphQL API design with schema-first approach, versioning, authentication, rate limiting, error handling, and documentation | 📖 Comprehensive |
 | [brainstorming](./skills/brainstorming/) | Explores user intent, requirements, and design before implementing creative work (use before any feature or component work) | 📖 Comprehensive |
 | [code-refactorer](./skills/code-refactorer/) | Refactoring with design patterns, SOLID principles, dead code elimination, performance optimization, and safe incremental workflows | 📖 Comprehensive |
